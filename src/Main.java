@@ -39,7 +39,6 @@ public class Main {
             if (spending > maxSpending) {
                 maxSpending = spending;
             }
-            System.out.println("Минимальная сумма трат за день составила " + minSpending + " рублей. Максимальная сумма трат за день составила " + maxSpending + " рублей");
         }
         System.out.println("Минимальная сумма трат за день составила " + minSpending + " рублей. Максимальная сумма трат за день составила " + maxSpending + " рублей");
     }
